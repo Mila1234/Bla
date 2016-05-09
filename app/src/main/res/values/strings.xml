@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bla</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="navigatin_icon_description">navigation icon description</string>
+    <string name="Logo_description">logo description</string>
+</resources>
